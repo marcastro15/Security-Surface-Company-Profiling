@@ -14,9 +14,9 @@ Pre-requisite Modules/Installation
       2. unzip master
       3. cd scapy-master
       4. python3 setup.py install
-- apt-get install tcpdump
-- pip3 install matplotlib
-- pip3 install pyx
+- apt-get install tcpdump (command line tool packet analyzer)
+- pip3 install matplotlib (plotting)
+- pip3 install pyx (graphs)
 
 Note: This program is tested in Ubuntu environment using python 3 version. "pip3" command will install the library within the python 3's domain.
 
