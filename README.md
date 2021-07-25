@@ -15,7 +15,7 @@ Pre-requisite Modules/Installation
       3. cd scapy-master
       4. python3 setup.py install
 - apt-get install tcpdump (command line tool packet analyzer)
-- apt install python-pytest
+- apt install python-pytest and pip3 install pytest
 - pip3 install matplotlib (plotting)
     + Test Installation in the command line
         - import matplotlib
