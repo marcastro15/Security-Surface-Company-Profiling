@@ -19,9 +19,8 @@ Pre-requisite Modules/Installation
 - pip3 install pytest
 - pip3 install numpy
 - pip3 install matplotlib (plotting)
-    + Test Installation in the command line
-        - import matplotlib
-        - matplotlib.test()
+    + Test Installation in the command line. The file is included in this tutorial
+        - ./test_mathplot_installation.py
 - pip3 install pyx (graphs)
 
 Note: This program is tested in Ubuntu environment using python 3 version. "pip3" command will install the library within the python 3's domain.
