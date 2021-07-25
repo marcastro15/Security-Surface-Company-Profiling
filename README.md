@@ -7,6 +7,7 @@ There are different phases of "Cyber Kill" called Cyber Kill Chain framework dev
 
 Pre-requisite Modules/Installation
 ----------------------------------
+- apt-get update (update source library)
 - Python version 3
 - Scapy 2.4.3-2.4.4
   + Install Latest Version 
