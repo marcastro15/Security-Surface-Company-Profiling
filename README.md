@@ -33,6 +33,9 @@ Note: This program is tested in Ubuntu environment using python 3 version. "pip3
 Running
 -------
 
+Acronyms and Definition
+-----------------------
+ARP - Address Resolution Protocol: A communication protocol used for discovering the link layer address, such as a MAC address, associated with a given internet layer address, typically an IPv4 address.
 
 Future Development
 -------------------
