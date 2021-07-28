@@ -7,7 +7,7 @@ There are different phases of "Cyber Kill" called Cyber Kill Chain framework dev
 Profiling Features
 ------------------
 - Network Scan - map the network to find devices that are connected to the same network.
-- Web URL Scan
+- Web URL Scan - (target website)
 - Web Contents Scan (mining)
 
 Pre-requisite Modules/Installation
