@@ -22,12 +22,17 @@ Pre-requisite Modules/Installation
       4. python3 setup.py install
 - apt-get install tcpdump (command line tool packet analyzer)
 - pip3 install scrapy
-- pip3 install pytest
+- pip3 install pytest (optional for testing only)
 - pip3 install numpy
 - pip3 install matplotlib (plotting)
     + Test Installation in the command line. The file is included in this tutorial
         - ./test_mathplot_installation.py
 - pip3 install pyx (graphs)
+- apt-get install python3-bs4
+- For crawler
+    -  pip3 install beautifulsoup4
+    - apt-get install python-lxml
+    - apt-get insall python-html5lib
 
 Note: This program is tested in Ubuntu environment using python 3 version. "pip3" command will install the library within the python 3's domain.
 
