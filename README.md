@@ -9,6 +9,7 @@ Profiling Features
 - Network Scan - map the network to find devices that are connected to the same network.
 - Web URL Scan - (target website)
 - Web Contents Scan (mining)
+- Check for XSS (Cross Scripting)
 
 Pre-requisite Modules/Installation
 ----------------------------------
