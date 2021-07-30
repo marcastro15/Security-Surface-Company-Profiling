@@ -6,7 +6,7 @@ There are different phases of "Cyber Kill" called Cyber Kill Chain framework dev
 
 Profiling Features
 ------------------
-- Network Scan - map the network to find devices that are connected to the same network.
+- Network Scan (IP/Port) - map the network to find devices that are connected to the same network.
 - Web URL Scan - (target website)
 - Web Contents Scan (mining)
 - Check for XSS (Cross Scripting)
@@ -34,6 +34,8 @@ Pre-requisite Modules/Installation
     -  pip3 install beautifulsoup4
     - apt-get install python-lxml
     - apt-get insall python-html5lib
+- Network Port Scanner
+    - pip3 install colorama
 
 Note: This program is tested in Ubuntu environment using python 3 version. "pip3" command will install the library within the python 3's domain.
 
