@@ -49,3 +49,8 @@ ARP - Address Resolution Protocol: A communication protocol used for discovering
 
 Future Development
 -------------------
+- Scan for sensitive data
+- Scan vulnerabilities for the language use using OWASP and/or SANS
+- Scan for key words of interest
+- Automatically report vulnerability issues to the SOC (Security Office Center)
+-
