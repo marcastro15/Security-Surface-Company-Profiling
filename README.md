@@ -10,6 +10,7 @@ Profiling Features
 - Web URL Scan - (target website)
 - Web Contents Scan (mining)
 - Check for XSS (Cross Scripting)
+- Note: This program needs elevated privilege to run.
 
 Pre-requisite Modules/Installation
 ----------------------------------
